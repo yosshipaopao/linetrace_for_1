@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MotorDriver")(type "KiCad")(uri "${KIPRJMOD}/MotorDriver.pretty/MotorDriver.kicad_sym")(options "")(descr ""))
+)
