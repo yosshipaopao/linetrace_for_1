@@ -3,7 +3,7 @@
 #include "motor.h"
 #include "core.h"
 
-const int M1_L = 3, M1_R = 4, M1_P = 5, M2_L = 9, M2_R = 8, M2_P = 10;
+const int M1_L = 5, M1_R = 6, M1_P = 3, M2_L = 10, M2_R = 11, M2_P = 9;
 int sp[4] = {A0, A1, A2, A3};
 Motor m1(M1_L, M1_R, M1_P);
 Motor m2(M2_L, M2_R, M2_P);
